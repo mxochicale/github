@@ -9,12 +9,8 @@ sudo apt-get install git
 ```
 
 
-## How To Set Up Git
-```
-git config --global user.name "Your Name"
-git config --global user.email "youremail@domain.com"
-```
-mine 
+## How To Set Up My Git
+
 ```
 git config --global user.name "mxochicale"
 git config --global user.email "perez.xochicaleATgmail.com"
