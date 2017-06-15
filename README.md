@@ -25,6 +25,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16
 
 
 ### ISSUES AFTER INSTALLING UBUNTU 
+NB. You need to update and upgrade the OS of the machine to avodi such error
 OUTPUT
 ```
 $ sudo apt-get install git
