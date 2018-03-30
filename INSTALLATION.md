@@ -14,7 +14,7 @@ sudo apt-get install git
 
 ```
 git config --global user.name "mxochicale"
-git config --global user.email "perez.xochicaleATgmail.com"
+git config --global user.email "@gmail.com"
 ```
 
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-16-04
