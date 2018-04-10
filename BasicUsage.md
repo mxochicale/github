@@ -165,24 +165,4 @@ https://gist.github.com/trongthanh/2779392
 [GHtorrent](http://ghtorrent.org/), [GitData](https://developer.github.com/v3/git/).
 
 
-# Why I am using GitHub?
 
-In 2013 at [INAOE Robotic's Lab](http://ccc.inaoep.mx/grupos/robotica.php),
-I started my adventures with [GitHub](https://en.wikipedia.org/wiki/GitHub)
-when I found the [GitHub of Jordan Frank](https://github.com/jwf/tdetools)
-for which I started to learn a series of programming languages (e.g. R, C++, and GitHub). I am still learning, I think I have made a bit of advance. Anyway, but if you want to have more scientific evincence for the use of GitHub, the following paragraph summarise well, what GitHub is a super tool.
-
-> "During recent years, [GitHub](https://en.wikipedia.org/wiki/GitHub),
-founded in 2008, has become the largest code host in the world, with more
-than 5M developers collaborating across 10M repositories.
-Due to its support for distributed
-version control (Git) and pull-based development [2], as well as
-its modern Web UI and focus on social coding [ [4] ](http://www.jsntsay.com/publications/dabbish-cscw2012.pdf),
-GITHUB has quickly surpassed
-in size and popularity even much older forges such as Sourceforge (1999).
-GITHUB offers a tremendous research potential. For instance, it is
-a flagship for current open source development, a place for developers to
-showcase their expertise to peers or potential recruiters, and
-the platform where social coding features or pull requests emerged."
->
-> [Gousios et al. 2014](https://bvasiles.github.io/papers/lean-ghtorrent.pdf)
