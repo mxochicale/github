@@ -10,8 +10,8 @@ Using GitHub
 
 # Why I am using GitHub?
 
-In 2013 I volunteered as a research internship at [INAOE Robotic's Lab](http://ccc.inaoep.mx/grupos/robotica.php)
-where I played with Markovito, a patrol service robot, and some accelerometers
+In 2013 I did a research internship at [INAOE Robotic's Lab](http://ccc.inaoep.mx/grupos/robotica.php)
+for six months where I played with Markovito, a patrol service robot, and some accelerometers
 to create a [DANCE DEMO Human-Robot Interaction](https://www.youtube.com/watch?v=Kw-lZam_qZI).
 In such quest of finding algorithms that can identify complex activities such as 
 dancing, I found the [GitHub repository of Jordan Frank](https://github.com/jwf/tdetools).
