@@ -1,10 +1,10 @@
-l# I :heart: GitHub 
+# I :heart: GitHub 
 
 ## Content
 * 1. [INSTALLATION](INSTALLATION.md)
-* 2. [USAGE](BasicUsage.md)
+* 2. [EXAMPLES](examples/)
 * 3. [SSH setup](SSH.md)
-* 4. [REFERENCES](REFERENCES.md)
+* 4. [REFERENCES](references/README.md)
 
 ## Why I am using GitHub?
 In 2013 I was a research internship at [INAOE Robotic's Lab](http://ccc.inaoep.mx/grupos/robotica.php)
