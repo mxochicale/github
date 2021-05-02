@@ -1,12 +1,14 @@
-# I :heart: GitHub 
+# Repository migrated to https://github.com/mxochicale/tools/tree/main/github
 
-## Content
+## I :heart: GitHub 
+
+### Content
 * 1. [INSTALLATION](INSTALLATION.md)
 * 2. [EXAMPLES](examples/)
 * 3. [SSH setup](SSH.md)
 * 4. [REFERENCES](references/README.md)
 
-## Why I am using GitHub?
+### Why I am using GitHub?
 In 2013 I was a research internship at [INAOE Robotic's Lab](http://ccc.inaoep.mx/grupos/robotica.php)
 for six months where I played with Markovito, a patrol service robot and some accelerometers
 to create a [DANCE DEMO Human-Robot Interaction](https://www.youtube.com/watch?v=Kw-lZam_qZI).
@@ -36,7 +38,7 @@ a flagship for current open source development, a place for developers to
 showcase their expertise to peers or potential recruiters, and
 the platform where social coding features or pull requests emerged."
 
-## Contact 
+### Contact 
 If you have specific questions about the content of this repository, you can contact 
 [Miguel Xochicale](mailto:perez.xochicale@gmail.com?subject="[github]"). 
 If your question might be relevant to other people, please instead 
